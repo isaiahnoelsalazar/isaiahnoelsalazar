@@ -1,6 +1,6 @@
 <h1 align="center">Hello, my name is Isaiah Noel Salazar</h1>
 
-- All of my projects are available at [https://isaiahnoelsalazar.github.io/my-website/](https://isaiahnoelsalazar.github.io/my-website/)
+- All of my projects are available at [https://isaiahnoelpulidosalazar.github.io/](https://isaiahnoelpulidosalazar.github.io/)
 
 - How to reach me **isaiahnoelsalazar474@gmail.com**
 
